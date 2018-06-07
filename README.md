@@ -40,6 +40,15 @@ ML task for Samsung internship 2018
 ![picture](task1/generated_image.png)
 <br/>Подробнее см. [task1/usage.ipynb](task1/usage.ipynb)
 
+### Использование
+
+Перейдите в папку [task1](task1), запустите команду:
+```bash
+pip install -r requirements.txt
+```
+Для тренировки сети можете запустить файл: [train.ipynb](task1/train.ipynb) или [train.py](task1/train.py)
+Для использования сети, посика и генерации картинок похожих на крокодила и часы запустите файл: [usage.ipynb](task1/usage.ipynb) или [usage.py](task1/usage.py)
+
 ## Задача 2
 
 Построить классификатор, который может определить кому принадлежит данный
@@ -73,4 +82,14 @@ ML task for Samsung internship 2018
 ![picture](task2/roc-auc-curve.png)
 <br/>На отрывках других произведений модель также имела отличные предсказания
 <br/>Подробнее см. [task2/train.ipynb](task2/train.ipynb)
+
+### Использование
+
+Перейдите в папку [task2](task2), запустите команду:
+```bash
+pip install -r requirements.txt
+```
+Для подготовки ланных можете запустить файл: [prepare_data.ipynb](task2/prepare_data.ipynb) или [prepare_data.py](task2/prepare_data.py)
+Для тренировки сети можете запустить файл: [train.ipynb](task2/train.ipynb) или [train.py](task2/train.py)
+
 
