@@ -46,8 +46,8 @@ ML task for Samsung internship 2018
 ```bash
 pip install -r requirements.txt
 ```
-Для тренировки сети можете запустить файл: [train.ipynb](task1/train.ipynb) или [train.py](task1/train.py)
-Для использования сети, посика и генерации картинок похожих на крокодила и часы запустите файл: [usage.ipynb](task1/usage.ipynb) или [usage.py](task1/usage.py)
+<br/>Для тренировки сети можете запустить файл: [train.ipynb](task1/train.ipynb) или [train.py](task1/train.py)
+<br/>Для использования сети, посика и генерации картинок похожих на крокодила и часы запустите файл: [usage.ipynb](task1/usage.ipynb) или [usage.py](task1/usage.py)
 
 ## Задача 2
 
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
-Для подготовки ланных можете запустить файл: [prepare_data.ipynb](task2/prepare_data.ipynb) или [prepare_data.py](task2/prepare_data.py)
-Для тренировки сети можете запустить файл: [train.ipynb](task2/train.ipynb) или [train.py](task2/train.py)
+<br/>Для подготовки ланных можете запустить файл: [prepare_data.ipynb](task2/prepare_data.ipynb) или [prepare_data.py](task2/prepare_data.py)
+<br/>Для тренировки сети можете запустить файл: [train.ipynb](task2/train.ipynb) или [train.py](task2/train.py)
 
 
